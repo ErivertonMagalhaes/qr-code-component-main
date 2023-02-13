@@ -1,0 +1,30 @@
+body{
+    background-color: #d6e1f0;
+}
+
+section{
+    display: flex;
+    width: 326px;
+    height: 500px;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 80px;
+    border-radius: 15px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: baseline;
+}
+
+
+.qrcode{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 18px;
+}
+
+img{
+    height: 290px;
+    width: 290px;
+    border-radius: 15px;
+}
